@@ -46,7 +46,7 @@ logger = logging.getLogger("DXA_VoltxBot")
 PANELS_FILE = "panels.json"
 SERVICES_FILE = "services.json"
 ADMIN_DB_FILE = "admin_db.json"
-OWNER_ID = "7568170179" # Change this ID to your main Admin ID
+OWNER_ID = "1849126202" # Change this ID to your main Admin ID
 TELEGRAM_TOKEN = "8982324793:AAFuLk06Nw4QaAHWXyrsYkGChxxUQvwzFbM"  # আপনার টেলিগ্রাম বট টোকেনটি এখানে দিন
 
 # Admin DB Logic (Tracks Users and Today's Numbers)
